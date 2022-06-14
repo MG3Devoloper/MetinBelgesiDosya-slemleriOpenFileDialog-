@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1972
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MetinBelgesiDosyaİslemleriOpenFileDialog+++", "MetinBelgesiDosyaİslemleriOpenFileDialog+++\MetinBelgesiDosyaİslemleriOpenFileDialog+++.csproj", "{6E6B9964-B393-43FD-A476-48909FB6DC18}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6E6B9964-B393-43FD-A476-48909FB6DC18}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6E6B9964-B393-43FD-A476-48909FB6DC18}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6E6B9964-B393-43FD-A476-48909FB6DC18}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6E6B9964-B393-43FD-A476-48909FB6DC18}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {04BFED66-6938-42A4-8B5A-7E6549192A1C}
+	EndGlobalSection
+EndGlobal
